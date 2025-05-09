@@ -1,2 +1,2 @@
-# WeCima
-WeCima With Adblocking
+# Stremio Web 
+SelfHosted only
