@@ -1,10 +1,10 @@
 {
-  "name": "@xHiqhAim/WeCima",
-  "appName": "WeCima",
+  "name": "@xHiqhAim/StremioWebSH",
+  "appName": "StremioWebSH",
   "version": "1.0",
-  "description": "WeCima with adblocker",
+  "description": "StremioWeb SelfHosted Eddition",
   "packageType": "mods",
-  "websiteURL": "https://wecima.film/",
+  "websiteURL": "http://192.168.1.52:8080/",
   "main": "scripts/userScript.js",
   "author": "xHiqhAim",
   "keys": [
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/kiiiniiiichi/WeCima"
+    "url": "https://github.com/kiiiniiiichi/StremioWebSH"
   },
   "license": "GPL-3.0-only"
 }
